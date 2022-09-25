@@ -11,12 +11,14 @@ In 2019, 35% of new Canadian immigrants chose to settle in the City of Toronto. 
 Total number of Essential Venues in each neighbourhood
 Primary and Secondary Benchmarks: Primary benchmarks considered were Unemployment rate, Crime rate and COVID-19 rates while the Secondary benchmark was housing price for a one-bedroom apartment in each neighbourhood.
 Methodology
+
 Python Libraries
 The libraries used on this project include:
 
-Pandas – For storing and manipulating structured data. Pandas functionality is built on NumPy
+Pandas – For storing and manipulating structured data. 
+Pandas functionality is built on NumPy
 Numpy – For multi-dimensional array, matrix data structures and, performing mathematical operations
 Plotly Visualization Package – For all visualizations 
-Requests - to send HTTP requests easily
+
 Project Flowchart
 The main steps for this project can be summarized in the flow chart below:
