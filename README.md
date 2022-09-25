@@ -22,4 +22,5 @@ Plotly Visualization Package – For all visualizations
 Project Flowchart
 The main steps for this project can be summarized in the flow chart below:
 
+![Picture1](https://user-images.githubusercontent.com/109698068/192135245-d46878ce-ce90-48b9-b2de-d90942c24f0c.png)
 
