@@ -1,4 +1,4 @@
-## Purwhadika_Module2_Project
+## ANALYSIS OF PAKISTAN E-COMMERCE DATA
 ### Data Analysis of Pakistan Largest E commerce Dataset
 
 This is a repository for Purwahdika Module 2 Project. All analysis was done by Omotayo Waheed.
